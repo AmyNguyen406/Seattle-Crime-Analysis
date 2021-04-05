@@ -1,2 +1,2 @@
 # Seattle-Crime-Analysis
- Linear regression analysis on sampled crime data in Seattle. 
+Using R, a linear regression analysis is completed on sampled crime data in Seattle. 
